@@ -1,0 +1,71 @@
+{
+    "systemStandard": "System standard ({systemLocale})",
+    "@systemStandard": {
+        "description": "systemStandard_description",
+        "placeholders": {
+            "systemLocale": {
+                "type": "String"
+            }
+        }
+    },
+    "currentLanguage": "English",
+    "@currentLanguage": {
+        "description": "currentLanguage_description"
+    },
+    "profile": "Profile",
+    "@profile": {
+        "description": "profile_description"
+    },
+    "email": "E-Mail",
+    "@email": {
+        "description": "email_description"
+    },
+    "language": "Language",
+    "@language": {
+        "description": "language_description"
+    },
+    "details": "Details",
+    "@details": {
+        "description": "details_description"
+    },
+    "agb": "AGBs",
+    "@agb": {
+        "description": "agb_description"
+    },
+    "dataPrivacy": "Data Privacy",
+    "@dataPrivacy": {
+        "description": "dataPrivacy_description"
+    },
+    "rateMindable": "Rate Mindable",
+    "@rateMindable": {
+        "description": "rateMindable_description"
+    },
+    "logout": "Logout",
+    "@logout": {
+        "description": "logout_description"
+    },
+    "female": "Female",
+    "@female": {
+        "description": "female_description"
+    },
+    "male": "male",
+    "@male": {
+        "description": "male_description"
+    },
+    "mockUserName": "Lucy",
+    "@mockUserName": {
+        "description": "mockUserName_description"
+    },
+    "mockUserEmail": "nutzer@gmail.com",
+    "@mockUserEmail": {
+        "description": "mockUserEmail_description"
+    },
+    "submit": "Submit",
+    "@submit": {
+        "description": "submit_description"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "cancel_description"
+    }
+}

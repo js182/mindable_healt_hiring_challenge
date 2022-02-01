@@ -1,0 +1,2 @@
+export 'package:mindable_healt_hiring_challenge/screens/profile_screen/components/horizontal_detail_component.dart';
+export 'package:mindable_healt_hiring_challenge/screens/profile_screen/components/profile_header_component.dart';

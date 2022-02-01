@@ -1,0 +1,17 @@
+{
+    "currentLanguage": "Deutsch",
+    "profile": "Profil",
+    "email": "E-Mail",
+    "language": "Sprache",
+    "details": "Informationen",
+    "agb": "AGBs",
+    "dataPrivacy": "Datenschutz",
+    "rateMindable": "Bewerte Mindable",
+    "logout": "Ausloggen",
+    "female": "Weiblich",
+    "male": "Männlich",
+    "mockUserName": "Lucy",
+    "mockUserEmail": "nutzer@gmail.com",
+    "submit": "Anwenden",
+    "cancel": "Abbrechen"
+}
